@@ -34,33 +34,11 @@ def main():
     shark_verse("Baby")
     shark_verse("Mommy")
     shark_verse("Daddy")
-
-
-    print("Baby Shark,")
-    print("doo-doo-doo-do-do-do-do")
-    print("Baby Shark,")
-    print("doo-doo-doo-do-do-do-do")
-    print("Baby Shark,")
-    print("doo-doo-doo-do-do-do-do")
-    print("Baby Shark!")
-    shark_verse("Baby")
     
     
-    print("Mommy Shark,")
-    print("doo-doo-doo-do-do-do-do")
-    print("Mommy Shark,")
-    print("doo-doo-doo-do-do-do-do")
-    print("Mommy Shark,")
-    print("doo-doo-doo-do-do-do-do")
-    print("Mommy Shark!")
     
-    print("Daddy Shark,")
-    print("doo-doo-doo-do-do-do-do")
-    print("Daddy Shark,")
-    print("doo-doo-doo-do-do-do-do")
-    print("Daddy Shark,")
-    print("doo-doo-doo-do-do-do-do")
-    print("Daddy Shark!")
+    
+    
 
 
 if __name__ == "__main__":
